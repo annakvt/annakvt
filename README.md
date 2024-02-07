@@ -4,10 +4,8 @@ let pronouns = "She/Her/Hers";
 ```
 
 ### 💬  About Me
-- I'm an 11th grade high school student and aspiring computer science major, interesting in applying my studies to the field of __*healthcare*__ 🧬 or __*AI*__ 🤖
-- But for now, I'm immersing myself in different oppourtunities and applications of CS to experience everything I can! <br>(I have so many interests)
-- Outside of school and my journey in CS, I'm an avid language-learning bookworm with a passion for competitive dance!
-
+- I'm a first year student at the University of British Columbia hoping to study cognitive systems, an interdisciplinary program at the crossroads of __*computer science*__ 💻, __*psychology*__ 🧠, __*philosophy*__ ♟️ and __*linguistics*__ 🤟
+- I'm interested in the fields of human-computer interaction and technology policy/law
 ---
 
 ### 🌱 Connect with Me
