@@ -4,7 +4,7 @@ let pronouns = "She/Her/Hers";
 ```
 
 ### 💬  About Me
-- I'm a first year student at the University of British Columbia hoping to study cognitive systems, an interdisciplinary program at the crossroads of __*computer science*__ 💻, __*psychology*__ 🧠, __*philosophy*__ ♟️ and __*linguistics*__ 🤟
+- I'm a second year student at the University of British Columbia studying cognitive systems, an interdisciplinary program at the crossroads of __*computer science*__ 💻, __*psychology*__ 🧠, __*philosophy*__ ♟️ and __*linguistics*__ 🤟
 - I'm interested in the fields of human-computer interaction and technology policy/law
 ---
 
